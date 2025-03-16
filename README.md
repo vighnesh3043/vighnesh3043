@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Vighnesh  
 
-<!--
-**vighnesh3043/vighnesh3043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+- 🎓 B.Tech in Electronics and Communications Engineering from Gitam University Bangalore.  
+- 👨‍💻 Passionate about Data Engineering, SQL, Python, ETL and Azure.  
+- 📊 Experienced in data engineering, analytics, visualization, and database management.  
+- 🌱 Currently working as Traine Sales Recruiter and aiming to transition into a Data Engineering role.  
+- ⚡ Fun Fact: I love exploring innovative tech solutions in DATA for real-world problems.  
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools  
+- 💾 SQL | MySQL | DBMS | Data Warehousing | ETL
+- 🐍 Python | Pandas | NumPy | PySpark | DataBricks
+- ☁️ Azure | Microsoft Azure Data Factory  
+- 📊 Data Visualization | MS Excel  
+- 🔗 GitHub | XML | Data Mining  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vighnesh-gannedi-000418218/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:gannedivighnesh@gmail.com)  
+
+⭐ Feel free to explore my repositories and collaborate on projects!
